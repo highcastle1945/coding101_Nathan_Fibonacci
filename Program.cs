@@ -10,11 +10,11 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            int sum = 0;
-            int j = 1;
-            int k = 1;
-            int upperlimit = 4,000,000;
-            int evenSum = 0;
+            uint sum = 0;
+            uint j = 1;
+            uint k = 1;
+            uint upperlimit =4000000000;
+            uint evenSum = 0;
 
             while(j<=upperlimit)
             {
